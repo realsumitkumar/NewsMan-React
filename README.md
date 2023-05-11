@@ -1,0 +1,1 @@
+NewMan is a news app which provides the important news and let's you stay connected wit the world. Created using React and NewsApi.
